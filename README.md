@@ -6,8 +6,8 @@
 
 ```
 AI-ShareAnything/
-├── tutorials/          # 教程文档和笔记
-└── resources/         # 学习资源链接和参考文档
+├── Individual/          # 个人总结内容
+└── External/         # 外部学习资源
 ```
 
 ## 🎯 目标
